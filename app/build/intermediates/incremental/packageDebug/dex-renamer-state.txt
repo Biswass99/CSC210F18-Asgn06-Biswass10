@@ -1,0 +1,7 @@
+#Mon Oct 29 13:30:57 EDT 2018
+base.0=/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ecf0e67dc8a4eb301ce82424ba81b0f8611ffeb1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ef91a57f8cd4296515f7aa96d12dd7b0a387f568/classes.dex
+base.1=/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ef91a57f8cd4296515f7aa96d12dd7b0a387f568
+file.0=/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ecf0e67dc8a4eb301ce82424ba81b0f8611ffeb1/classes.dex

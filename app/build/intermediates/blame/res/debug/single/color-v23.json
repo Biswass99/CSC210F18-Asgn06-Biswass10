@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/salil/AndroidStudioProjects/SongDetail/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

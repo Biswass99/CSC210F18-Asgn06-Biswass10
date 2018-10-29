@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:26.0.1] /home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/salil/.android/build-cache/ecf3217c2eee61a5ccb5fe103d68e7d5a943cfca/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/salil/.android/build-cache/633d74bb30cb9573da192c0295f98748c2b22f43/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/salil/.android/build-cache/ad6e668003eb7420b3384f6a2617c2abd79dc17d/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /home/salil/.android/build-cache/d1237ca3f691c476b6e9974873f3f147cba7d036/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] /home/salil/.android/build-cache/6bd761ded090ae67e5a06712d7f61ad495e42412/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/salil/.android/build-cache/1afd44602fcdd70e26a857a6d32b15b352f3f52b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /home/salil/.android/build-cache/9d821e7b762b78c83f853cb5965de1b5f92972fa/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/salil/.android/build-cache/d2777692f0c033162b5345771219e13693dcd424/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/salil/.android/build-cache/8eb475c8ffc5f0a69e35ceea9a8594ea2e678531/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /home/salil/.android/build-cache/e1a3a1d68a6e088d48e06dd1be525a12816ac44f/output/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.songdetail.MainActivity
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:13:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.songdetail.SongDetailActivity
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:24:13-54
+	android:parentActivityName
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:25:13-85
+	android:theme
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:23:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:27:13-29:79
+	android:value
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.1] /home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/salil/.android/build-cache/ecf3217c2eee61a5ccb5fe103d68e7d5a943cfca/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/salil/.android/build-cache/633d74bb30cb9573da192c0295f98748c2b22f43/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/salil/.android/build-cache/ad6e668003eb7420b3384f6a2617c2abd79dc17d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /home/salil/.android/build-cache/d1237ca3f691c476b6e9974873f3f147cba7d036/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] /home/salil/.android/build-cache/6bd761ded090ae67e5a06712d7f61ad495e42412/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/salil/.android/build-cache/1afd44602fcdd70e26a857a6d32b15b352f3f52b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /home/salil/.android/build-cache/9d821e7b762b78c83f853cb5965de1b5f92972fa/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/salil/.android/build-cache/d2777692f0c033162b5345771219e13693dcd424/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/salil/.android/build-cache/8eb475c8ffc5f0a69e35ceea9a8594ea2e678531/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] /home/salil/.android/build-cache/e1a3a1d68a6e088d48e06dd1be525a12816ac44f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] /home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salil/AndroidStudioProjects/SongDetail/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] /home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /home/salil/.android/build-cache/9678ddb80ae184356d1642e51473bc7820cb8009/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/salil/.android/build-cache/ecf3217c2eee61a5ccb5fe103d68e7d5a943cfca/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/salil/.android/build-cache/633d74bb30cb9573da192c0295f98748c2b22f43/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/salil/.android/build-cache/ad6e668003eb7420b3384f6a2617c2abd79dc17d/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /home/salil/.android/build-cache/d1237ca3f691c476b6e9974873f3f147cba7d036/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /home/salil/.android/build-cache/6bd761ded090ae67e5a06712d7f61ad495e42412/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /home/salil/.android/build-cache/1afd44602fcdd70e26a857a6d32b15b352f3f52b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /home/salil/.android/build-cache/9d821e7b762b78c83f853cb5965de1b5f92972fa/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /home/salil/.android/build-cache/d2777692f0c033162b5345771219e13693dcd424/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /home/salil/.android/build-cache/8eb475c8ffc5f0a69e35ceea9a8594ea2e678531/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /home/salil/.android/build-cache/e1a3a1d68a6e088d48e06dd1be525a12816ac44f/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] /home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] /home/salil/.android/build-cache/3e46b528b91e6c4c24f4388582644bbff4a278c8/output/AndroidManifest.xml:27:13-51
